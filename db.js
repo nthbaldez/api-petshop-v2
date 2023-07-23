@@ -1,4 +1,5 @@
 export const allProducts = [
+
   {
     name: 'Ração Fórmula Natural Pró para Cães Adultos de Porte Médio e Grande',
     description: 'Suscipit repellendus voluptatum non veniam corporis mollitia. Exercitationem nihil nisi ut. Doloribus magnam omnis tenetur cumque veritatis vel accusantium maiores.',
@@ -92,7 +93,7 @@ export const allProducts = [
   {
     name: 'Macaco Chalesco para cães',
     description: 'Saepe deserunt suscipit delectus sunt voluptate praesentium veniam dicta. Possimus recusandae fugiat sed adipisci quae sunt. Ullam magni corrupti dolore illo suscipit adipisci sed iste quaerat.',
-    image_url: 'https://images.petz.com.br/fotos/1531491431642.jpg',
+    image_url: 'https://images.petz.com.br/fotos/1688143004271.jpg',
     category: 'DOGS',
     id: '0c1daabf-f0e8-4287-8582-b75db62a0838',
     price_in_cents: 4343,
@@ -272,7 +273,7 @@ export const allProducts = [
   {
     name: 'Macaco Chalesco para cães',
     description: 'Saepe deserunt suscipit delectus sunt voluptate praesentium veniam dicta. Possimus recusandae fugiat sed adipisci quae sunt. Ullam magni corrupti dolore illo suscipit adipisci sed iste quaerat.',
-    image_url: 'https://images.petz.com.br/fotos/1531491431642.jpg',
+    image_url: 'https://images.petz.com.br/fotos/1688143004271.jpg',
     category: 'DOGS',
     id: '21d6ac20-77a4-4dc0-ab93-c89fb1966b49',
     price_in_cents: 3698,
@@ -362,7 +363,7 @@ export const allProducts = [
   {
     name: 'Macaco Chalesco para cães',
     description: 'Saepe deserunt suscipit delectus sunt voluptate praesentium veniam dicta. Possimus recusandae fugiat sed adipisci quae sunt. Ullam magni corrupti dolore illo suscipit adipisci sed iste quaerat.',
-    image_url: 'https://images.petz.com.br/fotos/1531491431642.jpg',
+    image_url: 'https://images.petz.com.br/fotos/1688143004271.jpg',
     category: 'DOGS',
     id: '60c23b73-7a46-4c04-859a-64715e82980d',
     price_in_cents: 2620,
@@ -512,7 +513,7 @@ export const allProducts = [
   {
     name: 'Macaco Chalesco para cães',
     description: 'Saepe deserunt suscipit delectus sunt voluptate praesentium veniam dicta. Possimus recusandae fugiat sed adipisci quae sunt. Ullam magni corrupti dolore illo suscipit adipisci sed iste quaerat.',
-    image_url: 'https://images.petz.com.br/fotos/1531491431642.jpg',
+    image_url: 'https://images.petz.com.br/fotos/1688143004271.jpg',
     category: 'DOGS',
     id: 'f4c8d3f7-d4ad-4b16-b024-34676b9a87bf',
     price_in_cents: 4401,
@@ -662,7 +663,7 @@ export const allProducts = [
   {
     name: 'Macaco Chalesco para cães',
     description: 'Saepe deserunt suscipit delectus sunt voluptate praesentium veniam dicta. Possimus recusandae fugiat sed adipisci quae sunt. Ullam magni corrupti dolore illo suscipit adipisci sed iste quaerat.',
-    image_url: 'https://images.petz.com.br/fotos/1531491431642.jpg',
+    image_url: 'https://images.petz.com.br/fotos/1688143004271.jpg',
     category: 'DOGS',
     id: '88134492-b114-4bdd-9c7b-0a314295fc6b',
     price_in_cents: 2040,
