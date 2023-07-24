@@ -49,7 +49,7 @@ How to start your project
 ```bash
 cd project-name
 npm install
-npm run start:dev
+npm run dev
 ```
 
 <h2 id="colab">🤝 Collaborators</h2>
