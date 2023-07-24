@@ -24,7 +24,7 @@
 You need to run the project. GraphQL APIs create schema and docs automatically.
 
 <p align="center">
-  <img src="/src/public/graphql-tests.png" alt="Image Example" width="400px">
+  <img src="/public/graphql-tests.png" alt="Image Example" width="400px">
 </p>
 
 <h3>Prerequisites</h3>
