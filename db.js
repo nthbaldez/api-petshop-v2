@@ -33,7 +33,7 @@ export const allProducts = [
   {
     name: 'Ração Golden para gatos',
     description: 'Numquam porro doloribus consequatur sed. Magni commodi porro magnam voluptates velit quibusdam dolorum. Nesciunt pariatur optio aut quis eveniet placeat eveniet quasi.',
-    image_url: 'https://images.petz.com.br/fotos/1658413914571.jpg',
+    image_url: 'https://images.petz.com.br/fotos/1707242492662.jpg',
     category: 'CATS',
     id: '8d47dc47-0cfb-4d98-94e5-0d72991a9e2a',
     price_in_cents: 7465,
@@ -83,7 +83,7 @@ export const allProducts = [
   {
     name: 'Arranhador para gato',
     description: 'Perferendis iusto aliquid nam quae tempora exercitationem eaque est aliquam. Optio laborum sapiente a. Incidunt voluptate ex molestias neque tenetur laboriosam quam molestias magnam.',
-    image_url: 'https://images.petz.com.br/fotos/1608212202034.jpg',
+    image_url: "https://images.petz.com.br/fotos/1502917134500.jpg",
     category: 'CATS',
     id: '535e9627-220e-4704-93cf-077dd2870f69',
     price_in_cents: 7918,
@@ -133,7 +133,7 @@ export const allProducts = [
   {
     name: 'Ração Golden para gatos castrados',
     description: 'Earum repudiandae ab repudiandae sint repellat at molestias voluptate aspernatur. Pariatur reprehenderit sed inventore sapiente beatae nam est eaque ipsum. Ipsam maiores ut libero occaecati accusantium dignissimos ipsam.',
-    image_url: 'https://images.petz.com.br/fotos/1658414449229.jpg',
+    image_url: "https://images.petz.com.br/fotos/1658426787648.jpg",
     category: 'CATS',
     id: 'b7dbc74b-f9c4-4573-8ccb-528cb3c20740',
     price_in_cents: 8284,
@@ -203,7 +203,7 @@ export const allProducts = [
   {
     name: 'Ração Golden para gatos castrados',
     description: 'Earum repudiandae ab repudiandae sint repellat at molestias voluptate aspernatur. Pariatur reprehenderit sed inventore sapiente beatae nam est eaque ipsum. Ipsam maiores ut libero occaecati accusantium dignissimos ipsam.',
-    image_url: 'https://images.petz.com.br/fotos/1658414449229.jpg',
+    image_url: "https://images.petz.com.br/fotos/1658426787648.jpg",
     category: 'CATS',
     id: '0f32c734-f93f-4607-b86f-62439fb2afb4',
     price_in_cents: 8878,
@@ -253,7 +253,7 @@ export const allProducts = [
   {
     name: 'Ração Golden para gatos',
     description: 'Numquam porro doloribus consequatur sed. Magni commodi porro magnam voluptates velit quibusdam dolorum. Nesciunt pariatur optio aut quis eveniet placeat eveniet quasi.',
-    image_url: 'https://images.petz.com.br/fotos/1658413914571.jpg',
+    image_url: 'https://images.petz.com.br/fotos/1707242492662.jpg',
     category: 'CATS',
     id: '22cef5be-a641-4ee3-8290-3177162d132a',
     price_in_cents: 4637,
@@ -303,7 +303,7 @@ export const allProducts = [
   {
     name: 'Arranhador para gato',
     description: 'Perferendis iusto aliquid nam quae tempora exercitationem eaque est aliquam. Optio laborum sapiente a. Incidunt voluptate ex molestias neque tenetur laboriosam quam molestias magnam.',
-    image_url: 'https://images.petz.com.br/fotos/1608212202034.jpg',
+    image_url: 'https://images.petz.com.br/fotos/1502917134500.jpg',
     category: 'CATS',
     id: '0618e73d-84e8-4d7d-9cc9-9ff286257e2b',
     price_in_cents: 9399,
@@ -333,7 +333,7 @@ export const allProducts = [
   {
     name: 'Arranhador para gato',
     description: 'Perferendis iusto aliquid nam quae tempora exercitationem eaque est aliquam. Optio laborum sapiente a. Incidunt voluptate ex molestias neque tenetur laboriosam quam molestias magnam.',
-    image_url: 'https://images.petz.com.br/fotos/1608212202034.jpg',
+    image_url: "https://images.petz.com.br/fotos/1502917134500.jpg",
     category: 'CATS',
     id: 'b6ffdd33-0cf2-460f-9e8b-8e3ea9a16878',
     price_in_cents: 2537,
@@ -373,7 +373,7 @@ export const allProducts = [
   {
     name: 'Ração Golden para gatos castrados',
     description: 'Earum repudiandae ab repudiandae sint repellat at molestias voluptate aspernatur. Pariatur reprehenderit sed inventore sapiente beatae nam est eaque ipsum. Ipsam maiores ut libero occaecati accusantium dignissimos ipsam.',
-    image_url: 'https://images.petz.com.br/fotos/1658414449229.jpg',
+    image_url: "https://images.petz.com.br/fotos/1658426787648.jpg",
     category: 'CATS',
     id: 'ea350127-98da-4f41-bdfc-178c7b6a7765',
     price_in_cents: 6618,
@@ -413,7 +413,7 @@ export const allProducts = [
   {
     name: 'Ração Golden para gatos',
     description: 'Numquam porro doloribus consequatur sed. Magni commodi porro magnam voluptates velit quibusdam dolorum. Nesciunt pariatur optio aut quis eveniet placeat eveniet quasi.',
-    image_url: 'https://images.petz.com.br/fotos/1658413914571.jpg',
+    image_url: 'https://images.petz.com.br/fotos/1707242492662.jpg',
     category: 'CATS',
     id: 'de545cbe-498e-4c48-bb78-129f3ee05cd1',
     price_in_cents: 3475,
@@ -483,7 +483,7 @@ export const allProducts = [
   {
     name: 'Ração Golden para gatos',
     description: 'Numquam porro doloribus consequatur sed. Magni commodi porro magnam voluptates velit quibusdam dolorum. Nesciunt pariatur optio aut quis eveniet placeat eveniet quasi.',
-    image_url: 'https://images.petz.com.br/fotos/1658413914571.jpg',
+    image_url: 'https://images.petz.com.br/fotos/1707242492662.jpg',
     category: 'CATS',
     id: 'b4658e26-7310-4091-b5b3-f0a126a384a7',
     price_in_cents: 3422,
@@ -583,7 +583,7 @@ export const allProducts = [
   {
     name: 'Arranhador para gato',
     description: 'Perferendis iusto aliquid nam quae tempora exercitationem eaque est aliquam. Optio laborum sapiente a. Incidunt voluptate ex molestias neque tenetur laboriosam quam molestias magnam.',
-    image_url: 'https://images.petz.com.br/fotos/1608212202034.jpg',
+    image_url: "https://images.petz.com.br/fotos/1502917134500.jpg",
     category: 'CATS',
     id: '2ef4f8b9-7299-4b43-a075-7c7da0989a6f',
     price_in_cents: 5491,
@@ -623,7 +623,7 @@ export const allProducts = [
   {
     name: 'Ração Golden para gatos castrados',
     description: 'Earum repudiandae ab repudiandae sint repellat at molestias voluptate aspernatur. Pariatur reprehenderit sed inventore sapiente beatae nam est eaque ipsum. Ipsam maiores ut libero occaecati accusantium dignissimos ipsam.',
-    image_url: 'https://images.petz.com.br/fotos/1658414449229.jpg',
+    image_url: "https://images.petz.com.br/fotos/1658426787648.jpg",
     category: 'CATS',
     id: 'a84e5964-a47b-4974-b708-744656001ccf',
     price_in_cents: 2413,
@@ -653,7 +653,7 @@ export const allProducts = [
   {
     name: 'Ração Golden para gatos castrados',
     description: 'Earum repudiandae ab repudiandae sint repellat at molestias voluptate aspernatur. Pariatur reprehenderit sed inventore sapiente beatae nam est eaque ipsum. Ipsam maiores ut libero occaecati accusantium dignissimos ipsam.',
-    image_url: 'https://images.petz.com.br/fotos/1658414449229.jpg',
+    image_url: "https://images.petz.com.br/fotos/1658426787648.jpg",
     category: 'CATS',
     id: '17ab5e65-b426-40f8-a696-3e3d4cc1b8dc',
     price_in_cents: 6313,
@@ -683,7 +683,7 @@ export const allProducts = [
   {
     name: 'Arranhador para gato',
     description: 'Perferendis iusto aliquid nam quae tempora exercitationem eaque est aliquam. Optio laborum sapiente a. Incidunt voluptate ex molestias neque tenetur laboriosam quam molestias magnam.',
-    image_url: 'https://images.petz.com.br/fotos/1608212202034.jpg',
+    image_url: "https://images.petz.com.br/fotos/1502917134500.jpg",
     category: 'CATS',
     id: '4ef30b30-e65e-4bbc-9fcb-bd32fe389cc6',
     price_in_cents: 6701,
@@ -733,7 +733,7 @@ export const allProducts = [
   {
     name: 'Ração Golden para gatos',
     description: 'Numquam porro doloribus consequatur sed. Magni commodi porro magnam voluptates velit quibusdam dolorum. Nesciunt pariatur optio aut quis eveniet placeat eveniet quasi.',
-    image_url: 'https://images.petz.com.br/fotos/1658413914571.jpg',
+    image_url: 'https://images.petz.com.br/fotos/1707242492662.jpg',
     category: 'CATS',
     id: '6f987049-1cd2-479f-b85f-951959537f5d',
     price_in_cents: 9647,
